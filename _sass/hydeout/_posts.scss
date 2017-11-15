@@ -5,7 +5,7 @@
 
 article + *, .post-body ~ section {
   padding-top: $section-spacing;
-  border-top: 1px solid $border-color;
+  border-top: 3px solid $border-color;
   margin-top: $section-spacing;
 
   > h2:first-child, > h3:first-child {
@@ -42,6 +42,10 @@ h2.post-title, h2.page-title {
   margin-top: -.5rem;
   margin-bottom: 1rem;
   color: $body-muted;
+}
+
+.post-tags {
+    margin-bottom: 1rem;
 }
 
 .post-tags a {

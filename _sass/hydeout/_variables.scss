@@ -48,3 +48,53 @@ $code-color: #bf616a !default;
 $sidebar-bg-color: #202020 !default;
 $sidebar-sticky: true !default;
 $layout-reverse: false !default;
+
+
+/* ==========================================================================
+   Variables (from minimal mistakes theme)
+   ========================================================================== */
+
+/*
+   Typography
+   ========================================================================== */
+
+/* system typefaces */
+$serif                        : Georgia, Times, serif !default;
+
+$caption-font-family          : $serif !default;
+
+/* type scale */
+$type-size-6                  : 0.75em !default;   // ~12px
+
+
+/*
+   Colors
+   ========================================================================== */
+
+$gray                         : #7a8288 !default;
+$dark-gray                    : mix(#000, $gray, 40%) !default;
+
+$text-color                   : $dark-gray !default;
+$muted-text-color             : mix(#fff, $text-color, 35%) !default;
+
+$info-color                   : #52adc8 !default;
+
+/* links */
+$link-color                   : $info-color !default;
+$link-color-hover             : mix(#000, $link-color, 25%) !default;
+
+/*
+   Breakpoints
+   ========================================================================== */
+
+$small                        : 600px !default;
+
+
+/*
+   Other
+   ========================================================================== */
+
+$border-radius2               : 4px !default;
+$global-transition            : all 0.2s ease-in-out !default;
+
+
