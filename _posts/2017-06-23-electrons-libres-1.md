@@ -1,15 +1,12 @@
 ---
 layout: post
 title: "Electrons libres"
-sub_title: "la sérendipité, vous connaissez ?"
 excerpt_separator: "<!--more-->"
 categories:
   - evenements
 tags:
   - art
   - technique 
-header:
-  teaser: images/electrons-libres-1/001-th.jpg
 gallery1:
   - url: /images/electrons-libres-1/002.jpg
     image_path: /images/electrons-libres-1/002-th.jpg
@@ -80,7 +77,8 @@ gallery3:
     image_path: /images/electrons-libres-1/023-th.jpg
     alt: ""
 ---
-{% include gallery id="gallery1" caption="" %}
+
+la sérendipité, vous connaissez ?
 
 On trouve parfois ce qu’on ne cherchait pas. – Alexander Fleming
 
@@ -94,6 +92,7 @@ Je m'attendais donc à voir des petits projets d'experimentation autour du code.
 
 Mais cet événement était réalisé conjointement avec un autre événement : [Electrons libres](https://www.stereolux.org/agenda/electrons-libres-2). Et là, on passe à un autre stade. Il s'agit de performances audovisuelles et d'installations d'artistes du numérique.
 
+{% include gallery id="gallery1" caption="" %}
 
 
 ## Performances

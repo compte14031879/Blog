@@ -1,20 +1,16 @@
 ---
 layout: post
 title: "Dessine-moi un emoji"
-sub_title: "vous ne retrouvez plus l'emoji de la situation, voici la solution !"
 excerpt_separator: "<!--more-->"
 categories:
   - articles
 tags:
   - fun
   - android
-header:
-  teaser: images/draw-an-emoji/007-th.jpg
 gallery1:
   - url: /images/draw-an-emoji/008.jpg
     image_path: /images/draw-an-emoji/008-th.jpg
-    alt: "draw-an-emoji"    
-gallery2:
+    alt: ""    
   - url: /images/draw-an-emoji/004.jpg
     image_path: /images/draw-an-emoji/004-th.jpg
     alt: ""
@@ -52,7 +48,8 @@ gallery2:
     image_path: /images/draw-an-emoji/016-th.jpg
     alt: ""
 ---
-{% include gallery id="gallery1" caption="" %}
+
+Vous ne retrouvez plus l'emoji de la situation, voici la solution !
 
 Vous êtes en pleine conversation sms sur votre smartphone Android. Et vous adorez ajoutez une multitude d'emoji à vos messages.
 
@@ -63,5 +60,5 @@ Google a apporté une innovation surprenante dans la dernière version de son cl
 ![find-the-feature](/images/draw-an-emoji/001.jpg){: .align-center}
 
 
-{% include gallery id="gallery2" caption="" %}
+{% include gallery id="gallery1" caption="" %}
 

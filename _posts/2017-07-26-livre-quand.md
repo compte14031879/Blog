@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Quand !"
-sub_title: "le livre qui va vous aider à remettre vos pendules à l'heure."
 excerpt_separator: "<!--more-->"
 categories:
   - livres
@@ -15,7 +14,8 @@ gallery1:
     image_path: /images/livre-quand/001.jpg
     alt: "Quand, le livre"
 ---
-{% include gallery id="gallery1" caption="" %}
+
+Le livre qui va vous aider à remettre vos pendules à l'heure.
 
 Plutôt du matin ou du soir ? Un expert en chronobiologie a établi une classification par famille de nos rythmes respectifs. Alors, êtes-vous plutôt ours, lion, dauphin ou loup ?
 
@@ -31,3 +31,5 @@ Il y a quatre familles qui correspondent à nos rythmes. De quelle famille êtes
 * L’ours : extraverti et convivial, l’ours représente 50% de la population. Il s’adapte facilement au rythme de la vie en société.
 * Le dauphin : il se lève tôt, et correspond à 10% de la population. Il se lève fréquemment entre 2h et 4h30 du matin et il est en forme le soir.
 * Le loup : il est plus introverti que l'ours, mais aussi plus créatif. Il reste éveillé jusqu’à tard, et ne se lève pas tôt. Ils ont du mal a émerger avant 9h, le loup atteint son pic de productivité en fin de matinée et en fin de journée.
+
+{% include gallery id="gallery1" caption="" %}

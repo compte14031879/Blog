@@ -4,9 +4,9 @@ highlighter:      rouge
 
 
 # Setup
-title:            Cybercarnet de notes
-tagline:          'par Frédéric Letellier'
-description:      'Bien écrire, c''est déjà presque bien penser, et il n''y a pas loin de là jusqu''à bien agir. -Thomas Mann'
+title:            Carnet de notes
+tagline:          'par Frédéric Letellier '
+description:      'par Frédéric Letellier' #'Bien écrire, c''est déjà presque bien penser, et il n''y a pas loin de là jusqu''à bien agir. -Thomas Mann'
 url:              http://fredericletellier.com
 baseurl:          # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.

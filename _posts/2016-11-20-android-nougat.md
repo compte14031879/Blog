@@ -1,15 +1,12 @@
 ---
 layout: post
-title: "Android 7.1 Nougat"
-sub_title: "Quelques délicieuses sucreries, tendres et fondantes en bouche, avec un bon goût de fruits secs. Une de mes gourmandises préférées."
+title: "Android Nougat 7.1"
 excerpt_separator: "<!--more-->"
 categories:
   - recettes
 tags:
   - patisserie
   - android
-header:
-  teaser: images/android-nougat/034-th.jpg
 gallery1:
   - url: /images/android-nougat/001.jpg
     image_path: /images/android-nougat/001-th.jpg
@@ -119,6 +116,8 @@ gallery6:
     image_path: /images/android-nougat/033-th.jpg
     alt: ""
 ---
+
+Quelques délicieuses sucreries, tendres et fondantes en bouche, avec un bon goût de fruits secs. Une de mes gourmandises préférées.
 
 {% include gallery id="gallery6" caption="" %}
 
