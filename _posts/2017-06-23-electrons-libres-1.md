@@ -6,7 +6,8 @@ categories:
   - evenements
 tags:
   - art
-  - technique 
+  - technique
+  - decouverte 
 gallery1:
   - url: /images/electrons-libres-1/002.jpg
     image_path: /images/electrons-libres-1/002-th.jpg

@@ -2,7 +2,6 @@
 markdown:         kramdown
 highlighter:      rouge
 
-
 # Setup
 title:            Carnet de notes
 tagline:          'par Frédéric Letellier '

@@ -5,8 +5,10 @@ excerpt_separator: "<!--more-->"
 categories:
   - evenements
 tags:
+  - atelier
   - design
   - futur
+  - creatif
   - fiction
   - IA   
 ---
