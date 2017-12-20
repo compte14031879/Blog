@@ -11,8 +11,9 @@ _site
 *.rej
 *.swo
 *.swp
-*.zip
 *.vi
+*.zip
+*.tar.gz
 *~
 
 # OS or Editor folders
